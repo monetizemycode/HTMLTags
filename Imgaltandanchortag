@@ -1,0 +1,10 @@
+<!-- Using Img tag and alt tag -->
+<html>
+<body>
+  <main>
+    <h1> Hello World! </h1>
+    <P> We don't need closing tag using <a href="https://static.semrush.com/blog/uploads/media/4c/dd/4cdd7bfe38ee2b7a6724480b4d3d6af8/html-image-tags.svg">Img tag</a> </p>
+    <img src="https://static.semrush.com/blog/uploads/media/4c/dd/4cdd7bfe38ee2b7a6724480b4d3d6af8/html-image-tags.svg" alt="Img source">
+</main>
+</body>
+</html>
